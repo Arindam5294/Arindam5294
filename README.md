@@ -2,14 +2,34 @@
 
 # Swanix
 
-**Builder at the edge of AI agents and onchain safety.**
-I ship small, working tools that make agents and wallets safer to use.
+**Builder of Unravix, plus AI agents and onchain safety tools.**
+I ship small, working products, and Unravix is the big one.
 
 [![X](https://img.shields.io/badge/X-@swanixcrypto-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swanixcrypto)
 [![Devpost](https://img.shields.io/badge/Devpost-swanix-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/swanix)
 [![Telegram](https://img.shields.io/badge/Telegram-@lvmag-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lvmag)
 
 </div>
+
+---
+
+### ⭐ Signature project: Unravix
+
+<div align="center">
+
+**Every app answers your question. Unravix finds the exact knot in your head and untangles it.**
+
+</div>
+
+Unravix is building the world's first **Confusion Graph**: a global map of where students get stuck, and what finally makes it click.
+
+- 🎯 **Finds the knot:** two quick probes pin your exact misconception, not just the topic
+- 🗣️ **Click moments:** 15 to 30 second explanations from students who were stuck at that exact point, ranked by how many they actually unstuck
+- 💚 **Pay it forward:** record your own click moment and earn every time it helps someone
+- 🌍 **Global from day one:** starting with physics and maths for JEE, NEET and GATE, then every subject in every country
+
+[![Launch page](https://img.shields.io/badge/See_it_unravel-Launch_page-3CF2A6?style=for-the-badge)](https://hark.site/s/a5703620-6b57-436b-8aa7-0c1b7a14a2cb?hark_region=us)
+![Status](https://img.shields.io/badge/Status-Launching_2027-8B5CF6?style=for-the-badge)
 
 ---
 
