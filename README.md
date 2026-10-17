@@ -1,8 +1,8 @@
 <div align="center">
 
-# Swanix
+<img src="./swanix-labs-banner.svg" alt="SWANIX LABS" width="100%"/>
 
-**Builder of Unravix, plus AI agents and onchain safety tools.**
+**Swanix Labs: builder of Unravix, plus AI agents and onchain safety tools.**
 I ship small, working products, and Unravix is the big one.
 
 [![X](https://img.shields.io/badge/X-@swanixcrypto-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swanixcrypto)
