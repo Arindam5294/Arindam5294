@@ -28,7 +28,7 @@ Unravix is building the world's first **Confusion Graph**: a global map of where
 - 💚 **Pay it forward:** record your own click moment and earn every time it helps someone
 - 🌍 **Global from day one:** starting with physics and maths for JEE, NEET and GATE, then every subject in every country
 
-[![Launch page](https://img.shields.io/badge/See_it_unravel-Launch_page-3CF2A6?style=for-the-badge)](https://hark.site/s/a5703620-6b57-436b-8aa7-0c1b7a14a2cb?hark_region=us)
+[![Launch page](https://img.shields.io/badge/See_it_unravel-Launch_page-3CF2A6?style=for-the-badge)](https://unravix.pages.dev)
 ![Status](https://img.shields.io/badge/Status-Launching_2027-8B5CF6?style=for-the-badge)
 
 ---
