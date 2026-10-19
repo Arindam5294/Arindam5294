@@ -37,6 +37,7 @@ Unravix is building the world's first **Confusion Graph**: a global map of where
 
 | Project | What it does | Stack |
 |---|---|---|
+| **⚒ [NIXFORGE](https://github.com/Arindam5294/nixforge)** | Describe any automation in plain words on Telegram. It forges a workflow on free GitHub Actions, heals its own failures silently, and asks only before evolving itself. [v0.1](https://github.com/Arindam5294/nixforge/releases) | Python · GitHub Actions · Cloudflare Workers · Telegram |
 | **🛡️ Rug Radar** | Pre-swap token safety score, live as a PayBox plugin. An agent calls `check_token` before it buys, and refuses risky launches. Base, Solana, BNB and Ethereum. | MCP · GoPlus · DexScreener · RugCheck |
 | **💊 [Dose Buddy](https://github.com/Arindam5294/dose-buddy)** | Voice-first medication companion, entered in the Amazon Alexa+ hackathon. [Demo video](https://youtu.be/0Bkkw-arcYw) · [Devpost](https://devpost.com/software/dose-buddy) | Alexa+ · Node · AI |
 | **🤖 [Swanix AI Agent](https://github.com/Arindam5294/Swanix)** | My personal Web3 research agent, running on GitHub Pages. [Live](https://arindam5294.github.io/Swanix) | JavaScript · LLM APIs |
