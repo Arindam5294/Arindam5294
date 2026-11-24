@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./swanix-labs-banner.png" alt="SWANIX LABS © All rights reserved" width="100%"/>
+<img src="./swanix-labs-banner-animated.svg" alt="SWANIX LABS © All rights reserved" width="100%"/>
 
 **Swanix Labs: builder of Unravix, plus AI agents and onchain safety tools.**
 I ship small, working products, and Unravix is the big one.
